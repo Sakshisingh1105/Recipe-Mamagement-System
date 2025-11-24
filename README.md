@@ -67,7 +67,7 @@ Note 3: Ensure you have the necessary privileges to create and modify databases 
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/JohnNtirintis/Recipe-Management-System
+git clone https://github.com/Sakshisingh1105/Recipe-Management-System
 ```
 
 2. Navigate to the project directory:
@@ -89,3 +89,4 @@ Interested in contributing? Fork the repository and submit a pull request. All c
 
 ## Development Status
 This project is currently under active development. While many features are fully functional, some functionalities, like the delete operation and ingredient management, are still in the development phase. Please check back regularly for updates and new features.
+
