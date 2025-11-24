@@ -1,5 +1,4 @@
 # Recipe Management System
-
 A powerful and intuitive system built to manage, store, and retrieve recipes with ease. Designed using the Layered Architectural Design pattern and the Abstract Factory pattern to ensure scalability, maintainability, and efficient data access.
 
 ## Table of Contents
@@ -89,4 +88,5 @@ Interested in contributing? Fork the repository and submit a pull request. All c
 
 ## Development Status
 This project is currently under active development. While many features are fully functional, some functionalities, like the delete operation and ingredient management, are still in the development phase. Please check back regularly for updates and new features.
+
 
